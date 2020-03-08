@@ -1,0 +1,1 @@
+{"Avira Prime": 5, "Antivirus PRO": 6, "Phantom VPN": 2, "Password Manager": 5, "Optimizer": 2, "System Speedup": 1}
