@@ -1,6 +1,7 @@
 import numpy as np
 import matplotlib.pyplot as plt
 
+#function that plots the data making percentages
 def make_barchart_percentage(all_categories, categories_names, title, current_export_path, colors):
 
     percentage = []
@@ -49,7 +50,7 @@ def make_barchart_percentage(all_categories, categories_names, title, current_ex
 
     plt.savefig(current_export_path)
 
-
+#function that plots the received values in raw form
 def make_barchart_values(all_categories, categories_names, title, current_export_path, colors):
     
     
